@@ -1,0 +1,71 @@
+body{
+    
+    color: rgb(189, 193, 198);
+    background-color: rgb(32, 33, 36)
+}
+.nav ul{
+    display: flex;
+}
+.nav{
+    display: flex;
+    justify-content: flex-end;
+}
+.nav ul li{
+    padding: 17px;
+
+}
+a{
+    color: rgb(138, 180, 248);
+    text-decoration: none;
+}
+.nav button{
+        width: 100px;
+        height: 25px;
+        margin-top: 30px;
+    
+    
+}
+img{
+    margin-left: 346px;
+
+}
+#S3{
+    
+    display:flex;
+    justify-content: center;
+}
+#maadar button{
+    padding: 0px;
+    width:150px;
+    height: 30px;
+    margin: 3px;
+    
+}
+#maadar{
+    margin-left: 469px;
+}
+#S3 input{
+    width: 600px;
+height: 20px;
+padding: 0 10px;
+margin: 0 30px;
+
+}
+#languages li{
+    display: inline;
+    padding:3px ;
+}
+.sapta li{
+    display:inline;
+    padding:50px;
+
+}
+.sapta{
+    margin-left: 280px;
+}
+#languages{
+    margin-left:250px;
+}
+#nanga{
+    margin-left: 380px;
+}
